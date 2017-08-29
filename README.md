@@ -1,6 +1,7 @@
 Binary Game
 ===========
 Click on one of the links below to play the binary game. 
++ https://www.crazygames.com/game/binary-game
 + http://www.wordfreegames.com/game/binary-game.html
 + https://learningnetwork.cisco.com/docs/DOC-1803   
 
